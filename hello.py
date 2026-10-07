@@ -9,3 +9,6 @@ print("favorite programming language is", programming_language)
 
 icecream = input("What is your favorite icecream? ")
 print("favorite icecream is", icecream)
+
+food = input("What is your favorite food? ")
+print("favorite food is", food)
